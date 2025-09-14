@@ -10,4 +10,4 @@ you will see only zeros, meaning the data has been completely wiped.
 python 2.7 or python3
 
 # Boot:
-python delete_date.py
+<pre>python delete_date.py</pre>
