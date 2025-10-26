@@ -11,3 +11,6 @@ python 2.7 or python3
 
 # Boot:
 <pre>python delete_date.py</pre>
+
+# Visit my blog
+https://www.ilblogdicristiangallo.com
